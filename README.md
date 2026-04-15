@@ -1,6 +1,6 @@
 # 💳 Credit Card Analytics Dashboard
 
-[![Live Demo](https://img.shields.io/badge/Power%20BI-Live%20Demo-yellow?logo=powerbi)](https://app.powerbi.com/view?r=YOUR-REPORT-ID)
+[![Live Demo](https://img.shields.io/badge/Power%20BI-Live%20Demo-yellow?logo=powerbi)](https://app.powerbi.com/view?r=eyJrIjoiZjU4NjFjNDEtYTk2Ni00Mzg0LWI0ZTMtYzZiNjMwZmU3MjdiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 An interactive **Power BI dashboard** for analyzing credit card transactions and customer behavior. This project provides both **financial insights** and **customer segmentation analysis** to help businesses optimize revenue, spending patterns, and marketing strategies.
 
@@ -124,7 +124,7 @@ Focuses on customer demographics, income, and behavioral insights.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/credit-card-dashboard.git
+git clone https:https://github.com/hariprasanth02/Credit-Card-Report-Analysis.git
 ```
 
 2. Open `CreditCardDashboard.pbix` in Power BI Desktop
